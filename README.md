@@ -4,7 +4,7 @@ Configure locale on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-locale/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-locale/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-locale/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-locale)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/locale)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/locale)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-locale.svg)](https://github.com/buluma/ansible-role-locale/releases/)|
+|[![github](https://github.com/buluma/ansible-role-locale/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-locale/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-locale/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-locale)|[![quality](https://img.shields.io/ansible/quality/57942)](https://galaxy.ansible.com/buluma/locale)|[![downloads](https://img.shields.io/ansible/role/d/57942)](https://galaxy.ansible.com/buluma/locale)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-locale.svg)](https://github.com/buluma/ansible-role-locale/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
