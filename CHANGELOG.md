@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-locale/tree/HEAD)
+## [1.0.6](https://github.com/buluma/ansible-role-locale/tree/1.0.6) (2022-05-13)
 
-[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.0.5...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.0.5...1.0.6)
 
 **Merged pull requests:**
 
