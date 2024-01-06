@@ -15,7 +15,7 @@ exclude_paths:
 
 skip_list:
   - yaml[truthy]
-  - no-changed-when:
+  - no-changed-when
 
 enable_list:
   - name[prefix]
