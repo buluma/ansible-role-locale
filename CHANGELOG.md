@@ -10,6 +10,10 @@
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#11](https://github.com/buluma/ansible-role-locale/issues/11)
 - Update action [\#10](https://github.com/buluma/ansible-role-locale/issues/10)
 
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#16](https://github.com/buluma/ansible-role-locale/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.0.8](https://github.com/buluma/ansible-role-locale/tree/1.0.8) (2022-09-10)
 
 [Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.0.7...1.0.8)
