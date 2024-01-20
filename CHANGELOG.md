@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-locale/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.1.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#20](https://github.com/buluma/ansible-role-locale/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.1.0](https://github.com/buluma/ansible-role-locale/tree/1.1.0) (2024-01-06)
 
 [Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.0.8...1.1.0)
