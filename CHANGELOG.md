@@ -2,10 +2,20 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-locale/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.2.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#13](https://github.com/buluma/ansible-role-locale/issues/13)
+- rebuild action [\#12](https://github.com/buluma/ansible-role-locale/issues/12)
+
+## [24.3.31](https://github.com/buluma/ansible-role-locale/tree/24.3.31) (2024-03-30)
+
+[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.2.0...24.3.31)
 
 **Merged pull requests:**
 
+- Bump dependabot/fetch-metadata from 1 to 2 [\#27](https://github.com/buluma/ansible-role-locale/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#24](https://github.com/buluma/ansible-role-locale/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#23](https://github.com/buluma/ansible-role-locale/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#22](https://github.com/buluma/ansible-role-locale/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
