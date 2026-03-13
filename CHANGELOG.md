@@ -9,6 +9,15 @@
 - Update action [\#13](https://github.com/buluma/ansible-role-locale/issues/13)
 - rebuild action [\#12](https://github.com/buluma/ansible-role-locale/issues/12)
 
+**Merged pull requests:**
+
+- Bump actions/checkout from 4 to 6 [\#33](https://github.com/buluma/ansible-role-locale/pull/33) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/dependabot-auto-merge-action from 2.1.2 to 2.1.4 [\#32](https://github.com/buluma/ansible-role-locale/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/setup-python from 5 to 6 [\#31](https://github.com/buluma/ansible-role-locale/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ansible/ansible-lint from 24.7.0 to 24.10.0 [\#30](https://github.com/buluma/ansible-role-locale/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump release-drafter/release-drafter from 5 to 6 [\#26](https://github.com/buluma/ansible-role-locale/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#25](https://github.com/buluma/ansible-role-locale/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-locale/tree/24.3.31) (2024-03-30)
 
 [Full Changelog](https://github.com/buluma/ansible-role-locale/compare/1.2.0...24.3.31)
