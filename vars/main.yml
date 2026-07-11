@@ -17,8 +17,7 @@ _locale_requirements:
   Suse:
     - timezone
 
-locale_requirements:
-  "{{ _locale_requirements[ansible_facts['distribution']] | default(_locale_requirements[ansible_facts['os_family']] | default(_locale_requirements['default']))
+locale_requirements: "{{ _locale_requirements[ansible_facts['distribution']] | default(_locale_requirements[ansible_facts['os_family']] | default(_locale_requirements['default']))
   }}"
 
 _locale_configuration_file:
