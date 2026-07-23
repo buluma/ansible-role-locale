@@ -14,6 +14,8 @@ _locale_requirements:
   Fedora:
     - langpacks-en
     - util-linux
+  RedHat:
+    - util-linux
   Suse:
     - timezone
 
