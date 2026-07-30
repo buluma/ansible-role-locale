@@ -1,5 +1,13 @@
 # Changelog
 
+## [26.7.0](https://github.com/buluma/ansible-role-locale/tree/26.7.0) (2026-07-23)
+
+[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/26.6.2...26.7.0)
+
+## [26.6.2](https://github.com/buluma/ansible-role-locale/tree/26.6.2) (2026-07-23)
+
+[Full Changelog](https://github.com/buluma/ansible-role-locale/compare/26.6.1...26.6.2)
+
 ## [26.6.1](https://github.com/buluma/ansible-role-locale/tree/26.6.1) (2026-06-14)
 
 [Full Changelog](https://github.com/buluma/ansible-role-locale/compare/26.6.0...26.6.1)
